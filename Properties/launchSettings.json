@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "expense-tracker": {
+      "commandName": "Project",
+      "commandLineArgs": "list"
+    }
+  }
+}
